@@ -11,10 +11,10 @@ Once the conversion is finished, the script compares the sizes of both original 
 - Windows OS
 
 ## Todo
--[x] develop a working implementation of the script
--[ ] implement path as an argument
--[ ] implement level of quality as an argument
--[ ] implement mode that doesn't replace the format of the original files
+- [x] develop a working implementation of the script
+- [ ] implement path as an argument
+- [ ] implement level of quality as an argument
+- [ ] implement mode that doesn't replace the format of the original files
 
 ## Contributions
 All contributions are welcome! I hope this simple script proves useful to someone other than me.
